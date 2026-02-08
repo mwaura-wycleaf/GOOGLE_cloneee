@@ -1,6 +1,6 @@
 # Google Homepage Clone
 
-## 馃搶 Project Overview
+Project Overview
 This project is a **clone of the Google homepage**, built for learning and practice purposes. The goal was to replicate the look, layout, and basic responsiveness of Google鈥檚 main search page using core web technologies.
 
 This project focuses on:
@@ -8,15 +8,14 @@ This project focuses on:
 - Proper HTML structure
 - Modern CSS styling
 - Basic interactivity (where applicable)
-
-> 鈿狅笍 **Disclaimer**: This project is for educational purposes only and is **not affiliated with or endorsed by Google**.
+ **Disclaimer**: This project is for educational purposes only and is **not affiliated with or endorsed by Google**.
 
 ---
 
-## 馃洜锔� Technologies Used
-- **HTML5** 鈥� Page structure
-- **CSS3** 鈥� Styling and layout (Flexbox/Grid)
-- **JavaScript** 鈥� Basic interactivity (if implemented)
+ Technologies Used
+- **HTML5**  Page structure
+- **CSS3** Styling and layout (Flexbox/Grid)
+- **JavaScript**Basic interactivity (if implemented)
 
 ---
 
@@ -133,4 +132,5 @@ d google-clone
 
 ## 馃 Contributing
 Contributions are welcome!
+
 
