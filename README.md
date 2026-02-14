@@ -19,7 +19,7 @@ This project focuses on:
 
 ---
 
-## 鉁� Features
+##  Features
 - Google-style homepage layout
 - Centered logo and search bar
 - Search input with buttons (Google Search / I鈥檓 Feeling Lucky)
@@ -28,7 +28,7 @@ This project focuses on:
 
 ---
 
-## 馃搨 Project Structure
+ Project Structure
 ```
 鈹溾攢鈹� index.html
 鈹溾攢鈹� style.css
@@ -39,7 +39,7 @@ This project focuses on:
 
 ---
 
-## 馃殌 Getting Started
+##  Getting Started
 Follow these steps to run the project locally:
 
 1. **Clone the repository**
@@ -58,12 +58,12 @@ cd google-clone
 
 ---
 
-## 馃摳 Screenshots
+##  Screenshots
 *(Add screenshots of your project here if available)*
 
 ---
 
-## 馃幆 Learning Outcomes
+##  Learning Outcomes
 - Improved understanding of HTML page structure
 - Better grasp of CSS layout techniques (Flexbox/Grid)
 - Practice cloning real-world UI designs
@@ -71,7 +71,7 @@ cd google-clone
 
 ---
 
-## 馃敡 Future Improvements
+##  Future Improvements
 - Add real Google search functionality using APIs
 - Improve accessibility (ARIA labels, keyboard navigation)
 - Dark mode toggle
@@ -79,7 +79,7 @@ cd google-clone
 
 ---
 
-## 馃 Contributing
+##  Contributing
 Contributions are welcome!
 1. Fork the repository
 2. Create a new branch
@@ -88,12 +88,12 @@ Contributions are welcome!
 
 ---
 
-## 馃搫 License
+##  License
 This project is licensed under the **MIT License**.
 
 ---
 
-## 馃懁 Author
+##  Author
 **Wycliff**  
 University Student & Aspiring Software Developer  
 
@@ -132,5 +132,6 @@ d google-clone
 
 ## 馃 Contributing
 Contributions are welcome!
+
 
 
