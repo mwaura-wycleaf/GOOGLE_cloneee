@@ -1,7 +1,7 @@
 # Google Homepage Clone
 
 Project Overview
-This project is a **clone of the Google homepage**, built for learning and practice purposes. The goal was to replicate the look, layout, and basic responsiveness of Google鈥檚 main search page using core web technologies.
+This project is a **clone of the Google homepage**, built for learning and practice purposes. The goal was to replicate the look, layout, and basic responsiveness of Google main search page using core web technologies.
 
 This project focuses on:
 - Clean UI replication
@@ -15,14 +15,13 @@ This project focuses on:
  Technologies Used
 - **HTML5**  Page structure
 - **CSS3** Styling and layout (Flexbox/Grid)
-- **JavaScript**Basic interactivity (if implemented)
 
 ---
 
 ##  Features
 - Google-style homepage layout
 - Centered logo and search bar
-- Search input with buttons (Google Search / I鈥檓 Feeling Lucky)
+- Search input with buttons (Google Search / Feeling Lucky)
 - Responsive design for different screen sizes
 - Clean and minimal UI similar to the original Google homepage
 
@@ -30,11 +29,9 @@ This project focuses on:
 
  Project Structure
 ```
-鈹溾攢鈹� index.html
-鈹溾攢鈹� style.css
-鈹溾攢鈹� script.js   (if used)
-鈹斺攢鈹� assets/
-    鈹斺攢鈹� images/
+index.html
+style.css
+images
 ```
 
 ---
@@ -57,9 +54,6 @@ cd google-clone
 - Use Live Server in VS Code for a better experience
 
 ---
-
-##  Screenshots
-*(Add screenshots of your project here if available)*
 
 ---
 
@@ -98,8 +92,7 @@ This project is licensed under the **MIT License**.
 University Student & Aspiring Software Developer  
 
 ---
-
-猸� If you like this project, feel free to star the repository!
+If you like this project, feel free to star the repository!
 d google-clone
 ```
 
@@ -109,12 +102,9 @@ d google-clone
 
 ---
 
-## 馃摳 Screenshots
-*(Add screenshots of your project here if available)*
-
 ---
 
-## 馃幆 Learning Outcomes
+Learning Outcomes
 - Improved understanding of HTML page structure
 - Better grasp of CSS layout techniques (Flexbox/Grid)
 - Practice cloning real-world UI designs
@@ -122,7 +112,7 @@ d google-clone
 
 ---
 
-## 馃敡 Future Improvements
+Future Improvements
 - Add real Google search functionality using APIs
 - Improve accessibility (ARIA labels, keyboard navigation)
 - Dark mode toggle
@@ -130,8 +120,9 @@ d google-clone
 
 ---
 
-## 馃 Contributing
+Contributing
 Contributions are welcome!
+
 
 
 
