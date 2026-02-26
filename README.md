@@ -30,7 +30,7 @@ This project focuses on:
  Project Structure
 ```
 index.html
-style.css
+index.css
 images
 ```
 
@@ -122,6 +122,7 @@ Future Improvements
 
 Contributing
 Contributions are welcome!
+
 
 
 
