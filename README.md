@@ -1,6 +1,7 @@
 # Google Homepage Clone
 
 Project Overview
+
 This project is a **clone of the Google homepage**, built for learning and practice purposes. The goal was to replicate the look, layout, and basic responsiveness of Google main search page using core web technologies.
 
 This project focuses on:
