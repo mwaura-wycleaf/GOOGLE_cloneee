@@ -15,7 +15,7 @@ This project focuses on:
 
  Technologies Used
 - **HTML5**  Page structure
-- **CSS3** Styling and layout (Flexbox/Grid)
+- **CSS3** Styling and layout
 
 ---
 
