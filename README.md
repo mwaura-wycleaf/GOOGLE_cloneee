@@ -113,14 +113,6 @@ Learning Outcomes
 
 ---
 
-Future Improvements
-- Add real Google search functionality using APIs
-- Improve accessibility (ARIA labels, keyboard navigation)
-- Dark mode toggle
-- Enhanced mobile responsiveness
-
----
-
 Contributing
 Contributions are welcome!
 
